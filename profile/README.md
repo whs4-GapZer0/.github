@@ -105,10 +105,61 @@ Control ID는 `GOV-C-01`(Governance · Common · 01)처럼 도메인·Class·번
 각 Control을 **누가, 언제, 어떻게 이행하고 무엇으로 결과를 확인할지** 설명하는 웹 가이드라인입니다.
 
 - 15개 Security Domain별로 Control Objective · Statement · 적용 조건 · Owner · Stakeholders · Implementation Guide · Evidence를 제공합니다.
-- **Self Assessment**에서는 Assessment Question을 기준으로 이행 상태와 근거를 기록합니다. 평가는 충족 / 부분 충족 / 미충족 / 적용 제외 / 확인 필요의 5단계입니다.
+- **Self Assessment**에서는 Assessment Question을 기준으로 이행 상태와 근거를 기록합니다. 평가는 충족 / 부분 충족 / 미충족 / 적용 제외 / 확인 필요의 5단계이며, 작성 내용은 정해진 Excel 템플릿으로 내보내고 다시 불러올 수 있습니다.
 - 내용은 Domain·Class별 Markdown 파일로 나뉘어 있습니다. Framework가 바뀌면 해당 파일만 고치고, 변경 이력은 Git으로 추적합니다.
 
 ![GapZer0_Guideline 구성도](./assets/infra-guideline.png)
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/guide-01.jpg" alt="가이드라인 표지"/></td>
+    <td width="50%"><img src="./assets/guide-02.jpg" alt="01. 가이드라인 소개"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>가이드라인 표지</b><br/><sub>GAP을 찾고, GAP을 메운다</sub></td>
+    <td align="center"><b>01. 가이드라인 소개</b><br/><sub>프레임워크 제작 배경과 목적</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/guide-03.jpg" alt="01. 가이드라인 소개"/></td>
+    <td width="50%"><img src="./assets/guide-04.jpg" alt="02. 가이드라인 활용 방법"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>01. 가이드라인 소개</b><br/><sub>15개 보안 영역 · 121개 Control 구성</sub></td>
+    <td align="center"><b>02. 가이드라인 활용 방법</b><br/><sub>작성 예시로 보는 이행 확인과 자가진단</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/guide-05.jpg" alt="03. 주요 용어"/></td>
+    <td width="50%"><img src="./assets/guide-06.jpg" alt="04. Control 이행 안내"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>03. 주요 용어</b><br/><sub>Control 이행 안내 항목 설명</sub></td>
+    <td align="center"><b>04. Control 이행 안내</b><br/><sub>보안 영역별 목표와 Control 유형 안내</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/guide-07.jpg" alt="Control 상세"/></td>
+    <td width="50%"><img src="./assets/guide-08.jpg" alt="05. 자가 진단"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Control 상세</b><br/><sub>IAM-C-01 Common Control 설명</sub></td>
+    <td align="center"><b>05. 자가 진단</b><br/><sub>작성 흐름 · 평가 기준 · Excel 템플릿 안내</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/guide-09.jpg" alt="자가진단 작성 (1)"/></td>
+    <td width="50%"><img src="./assets/guide-10.jpg" alt="자가진단 작성 (2)"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>자가진단 작성 (1)</b><br/><sub>평가 기본정보 입력</sub></td>
+    <td align="center"><b>자가진단 작성 (2)</b><br/><sub>Excel 다운로드 · 불러오기와 Control 선택</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/guide-11.jpg" alt="자가진단 작성 (3)"/></td>
+    <td width="50%"><img src="./assets/guide-12.jpg" alt="자가진단 작성 (4)"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>자가진단 작성 (3)</b><br/><sub>평가 결과 · 근거 · 확인한 증적 기록</sub></td>
+    <td align="center"><b>자가진단 작성 (4)</b><br/><sub>개선계획 작성과 작성 내용 점검</sub></td>
+  </tr>
+</table>
 
 ### 🛡️ GapZer0_GRC <sub>🔒 Private</sub>
 
@@ -247,6 +298,17 @@ GRC 도구가 **실제 운영 흔적**을 대상으로 제대로 판정하는지
       <td align="center">Guideline<br/><b>이영언</b></td>
       <td align="center">GRC<br/><b>이재윤</b></td>
       <td align="center">GRC<br/><b>정세영</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/zer0-kr"><img src="https://avatars.githubusercontent.com/u/150603199?v=4" width="120px;" alt="Mentor"/><br /><sub><b>@zer0-kr</b></sub></a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Mentor</b></td>
     </tr>
   </tbody>
 </table>

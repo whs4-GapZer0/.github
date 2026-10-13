@@ -293,22 +293,15 @@ GRC 도구가 **실제 운영 흔적**을 대상으로 제대로 판정하는지
       <td align="center"><a href="https://github.com/young33171"><img src="https://avatars.githubusercontent.com/u/272396768?v=4" width="120px;" alt="이영언"/><br /><sub><b>@young33171</b></sub></a></td>
       <td align="center"><a href="https://github.com/jae-yoonlee"><img src="https://avatars.githubusercontent.com/u/202760031?v=4" width="120px;" alt="이재윤"/><br /><sub><b>@jae-yoonlee</b></sub></a></td>
       <td align="center"><a href="https://github.com/isayzero"><img src="https://avatars.githubusercontent.com/u/176460914?v=4" width="120px;" alt="정세영"/><br /><sub><b>@isayzero</b></sub></a></td>
+      <td align="center"><a href="https://github.com/zer0-kr"><img src="https://avatars.githubusercontent.com/u/150603199?v=4" width="120px;" alt="공지훈"/><br /><sub><b>@zer0-kr</b></sub></a></td>
+      <td align="center"><a href="https://github.com/kkimklara"><img src="https://avatars.githubusercontent.com/u/83808163?v=4" width="120px;" alt="김채영"/><br /><sub><b>@kkimklara</b></sub></a></td>
     </tr>
     <tr>
       <td align="center">Guideline<br/><b>이영언</b></td>
       <td align="center">GRC<br/><b>이재윤</b></td>
       <td align="center">GRC<br/><b>정세영</b></td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/zer0-kr"><img src="https://avatars.githubusercontent.com/u/150603199?v=4" width="120px;" alt="Mentor"/><br /><sub><b>@zer0-kr</b></sub></a></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Mentor</b></td>
+      <td align="center">Mentor<br/><b>공지훈</b></td>
+      <td align="center">PL<br/><b>김채영</b></td>
     </tr>
   </tbody>
 </table>
